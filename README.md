@@ -59,8 +59,3 @@ Using URLs from the Deck of Cards API (e.g. https://deckofcardsapi.com/static/i
 
 Note that the two cards you display must be different. You also don’t need to worry about any other functionality from the game of blackjack. If you want different cards, you’ll have to refresh the page.
 
-Here’s an image of what the app might look like:
-
-![Screen Shot 2023-05-08 at 4.00.09 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73a12746-3028-4264-b364-b1bae858a7d1/Screen_Shot_2023-05-08_at_4.00.09_PM.png)
-
-Spend some time talking with your partner about the component design for this application, if you decide to give it a shot.
